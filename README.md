@@ -14,6 +14,10 @@ Climate and weather related resources index
 
  * Arctic ice (Zack Labe): https://sites.uci.edu/zlabe/arctic-sea-ice-figures/
 
+## Satellite imagery
+ * Near-realtime geostationary Europe images: https://www.sat24.com/
+ * Terra/Aqua MODIS, Suomi NPP imagery: https://worldview.earthdata.nasa.gov/
+
 ## Natural Earth climate variability
  * Milankovich cycles: https://en.wikipedia.org/wiki/Milankovitch_cycles
  * Greenland vs Antarctic ice core variability: https://en.wikipedia.org/wiki/File:Ice-core-isotope.png
@@ -29,6 +33,5 @@ Climate and weather related resources index
  * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
 
-
-
- 
+## Global warming
+ * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
