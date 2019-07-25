@@ -6,9 +6,11 @@ Climate and weather related resources index
 
  * Temperature anomaly: http://www.karstenhaustein.com/climate.php
  * Earth interactive map with atmosphere, ocean and particulates models: https://earth.nullschool.net/
+ * GFS (and other) maps with possibility to export animated GIFs: https://www.wxcharts.com/
  * Sea ice extent for Arctic & Antarctic (NSIDC): https://nsidc.org/arcticseaicenews/
  * Arctic sea ice extent, volume, temperature (DMI): http://polarportal.dk/en/sea-ice-and-icebergs/
  * Greenland icesheet melt status (NSIDC): https://nsidc.org/greenland-today/
+ * Community-based realtime lightning maps: http://map.blitzortung.org
 
 ## Climate graphics
 
@@ -35,3 +37,4 @@ Climate and weather related resources index
 
 ## Global warming
  * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
+ * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
