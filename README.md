@@ -20,6 +20,7 @@ Climate and weather related resources index
 ## Satellite imagery
  * Near-realtime geostationary Europe images: https://www.sat24.com/
  * Terra/Aqua MODIS, Suomi NPP imagery: https://worldview.earthdata.nasa.gov/
+ * Sentinel-2, Landsat 8, DEM and MODIS imagery: https://apps.sentinel-hub.com/sentinel-playground
 
 ## Natural Earth climate variability
  * Milankovich cycles: https://en.wikipedia.org/wiki/Milankovitch_cycles
