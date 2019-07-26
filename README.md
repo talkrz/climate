@@ -15,6 +15,7 @@ Climate and weather related resources index
 
 ## Climate graphics
 
+ * GISS surface temperature analysis: https://data.giss.nasa.gov/gistemp/
  * Arctic ice (Zack Labe): https://sites.uci.edu/zlabe/arctic-sea-ice-figures/
  * El Nino figures: http://www.columbia.edu/~mhs119/ElNino-LaNina/
  * Global temperature figures: http://www.columbia.edu/~mhs119/Temperature/
