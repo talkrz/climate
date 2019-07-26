@@ -50,3 +50,4 @@ Climate and weather related resources index
 ## Global warming
  * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
  * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
+ * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
