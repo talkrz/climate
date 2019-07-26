@@ -16,6 +16,8 @@ Climate and weather related resources index
 ## Climate graphics
 
  * Arctic ice (Zack Labe): https://sites.uci.edu/zlabe/arctic-sea-ice-figures/
+ * El Nino figures: http://www.columbia.edu/~mhs119/ElNino-LaNina/
+ * Global temperature figures: http://www.columbia.edu/~mhs119/Temperature/
 
 ## Satellite imagery
  * Near-realtime geostationary Europe images: https://www.sat24.com/
