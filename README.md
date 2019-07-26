@@ -11,6 +11,7 @@ Climate and weather related resources index
  * Arctic sea ice extent, volume, temperature (DMI): http://polarportal.dk/en/sea-ice-and-icebergs/
  * Greenland icesheet melt status (NSIDC): https://nsidc.org/greenland-today/
  * Community-based realtime lightning maps: http://map.blitzortung.org
+ * Realtime Europe radar maps: http://www.radareu.cz/
 
 ## Climate graphics
 
@@ -34,6 +35,12 @@ Climate and weather related resources index
  * Heinrich event: https://en.wikipedia.org/wiki/Heinrich_event
  * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
+
+## Periodic weather phenomena
+ * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+ * NAO: https://en.wikipedia.org/wiki/North_Atlantic_oscillation
+ * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
+ * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
 
 ## Global warming
  * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
