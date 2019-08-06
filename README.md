@@ -49,6 +49,7 @@ Climate and weather related resources index
 
 ## Global warming
  * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
+ * Exceptional melt of Greenland ice in 2019 (article): https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
  * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
  * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
 
