@@ -29,7 +29,7 @@ Climate and weather related resources index
 ## Natural Earth climate variability
  * Milankovich cycles: https://en.wikipedia.org/wiki/Milankovitch_cycles
  * Greenland vs Antarctic ice core variability: https://en.wikipedia.org/wiki/File:Ice-core-isotope.png
- * Greenland ice core analysis article: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
+ * [Article] Greenland ice core analysis: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
  * Glacial period: https://en.wikipedia.org/wiki/Last_Glacial_Period
  * Previous interglacial period: https://en.wikipedia.org/wiki/Eemian
  * Current geological (interglacial?) period: https://en.wikipedia.org/wiki/Holocene
@@ -48,8 +48,8 @@ Climate and weather related resources index
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
 
 ## Global warming
- * Article about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
- * Exceptional melt of Greenland ice in 2019 (article): https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
+ * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
+ * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
  * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
  * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
 
