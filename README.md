@@ -35,14 +35,18 @@ Climate and weather related resources index
  * [Article] Greenland ice core analysis: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
  * Glacial period: https://en.wikipedia.org/wiki/Last_Glacial_Period
  * Previous interglacial period: https://en.wikipedia.org/wiki/Eemian
- * Current geological (interglacial?) period: https://en.wikipedia.org/wiki/Holocene
  * Abrupt climate change: https://en.wikipedia.org/wiki/Abrupt_climate_change
  * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
  * ACC figure: https://en.wikipedia.org/wiki/File:Approximate_chronology_of_Heinrich_events_vs_Dansgaard-Oeschger_events_and_Antarctic_Isotope_Maxima.png
  * Dansgaard–Oeschger event: https://en.wikipedia.org/wiki/Dansgaard%E2%80%93Oeschger_event
  * Heinrich event: https://en.wikipedia.org/wiki/Heinrich_event
+ * Laurentide_Ice_Sheet: https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet
+### Holocene climate events
+ * https://en.wikipedia.org/wiki/Holocene
  * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
+ * Sea level rise: https://en.wikipedia.org/wiki/Early_Holocene_sea_level_rise
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
+ * "Little Ice Age": https://en.wikipedia.org/wiki/Little_Ice_Age
 
 ## Periodic weather phenomena
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
