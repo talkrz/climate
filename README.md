@@ -62,4 +62,4 @@ Climate and weather related resources index
 
 ## Understanding thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
- * Atlintic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
+ * Atlantic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
