@@ -63,6 +63,7 @@ Climate and weather related resources index
 ### Industrial era sea level rise
  * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
+ * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
 ## Understanding thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
