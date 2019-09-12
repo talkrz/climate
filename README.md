@@ -60,6 +60,10 @@ Climate and weather related resources index
  * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
  * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
 
+### Industrial era sea level rise
+ * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
+ * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
+
 ## Understanding thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
  * Atlantic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
