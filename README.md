@@ -58,6 +58,7 @@ Climate and weather related resources index
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
 ## Global warming
+ * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
  * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
  * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
  * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
