@@ -54,6 +54,7 @@ Climate and weather related resources index
  * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
  * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
+ * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
 ## Global warming
