@@ -53,6 +53,8 @@ Climate and weather related resources index
  * NAO: https://en.wikipedia.org/wiki/North_Atlantic_oscillation
  * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
+ * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
+ * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
 ## Global warming
  * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
