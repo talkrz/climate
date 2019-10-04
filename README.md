@@ -51,6 +51,7 @@ Climate and weather related resources index
 ## Periodic weather phenomena
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
  * NAO: https://en.wikipedia.org/wiki/North_Atlantic_oscillation
+ * NAO data since 1950: https://www.climate.gov/news-features/understanding-climate/climate-variability-north-atlantic-oscillation
  * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
  * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
