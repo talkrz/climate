@@ -12,6 +12,7 @@ Climate and weather related resources index
  * Greenland icesheet melt status (NSIDC): https://nsidc.org/greenland-today/
  * Community-based realtime lightning maps: http://map.blitzortung.org
  * Realtime Europe radar maps: http://www.radareu.cz/
+ * Historical weather data for Poland: https://meteomodel.pl/dane/srednie-miesieczne/
 
 ## Climate graphics
 
