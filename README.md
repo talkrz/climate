@@ -62,6 +62,7 @@ Climate and weather related resources index
 
 ## Global warming
  * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
+ * Visualisation of polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
  * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
  * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
  * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
