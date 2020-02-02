@@ -61,6 +61,8 @@ Climate and weather related resources index
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
 ## Global warming
+ * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
+ * [Article] global warming in last 2000 years: https://www.climate-lab-book.ac.uk/2020/2019-years/
  * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
  * Visualisation of polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
  * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
