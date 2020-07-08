@@ -82,3 +82,4 @@ Climate and weather related resources index
  * [Article] North Atlantic warming hole: https://www.carbonbrief.org/scientists-shed-light-on-human-causes-of-north-atlantics-cold-blob
  * North Atlantic warming hole: https://en.wikipedia.org/wiki/Cold_blob_(North_Atlantic)
  * [Paper] AMOC slowdown: https://eprints.ucm.es/32657/1/robinson10postprint.pdf
+ * [Article] AMOC shutdown impact on climate: https://www.carbonbrief.org/guest-post-could-the-atlantic-overturning-circulation-shut-down
