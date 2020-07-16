@@ -36,6 +36,7 @@ Climate and weather related resources index
  * [Article] Greenland ice core analysis: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
  * Glacial period: https://en.wikipedia.org/wiki/Last_Glacial_Period
  * Previous interglacial period: https://en.wikipedia.org/wiki/Eemian
+ * [Article] Reconstruction of Eemian climate from northern Finland https://www.nature.com/articles/s41467-018-05314-1
  * Abrupt climate change: https://en.wikipedia.org/wiki/Abrupt_climate_change
  * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
  * ACC figure: https://en.wikipedia.org/wiki/File:Approximate_chronology_of_Heinrich_events_vs_Dansgaard-Oeschger_events_and_Antarctic_Isotope_Maxima.png
