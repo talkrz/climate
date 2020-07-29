@@ -30,25 +30,60 @@ Climate and weather related resources index
  * GOES-16/17 loop of the day: http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/
  * [Article] ICESat-2 - precise laser elevation measurements sat: https://www.nasa.gov/feature/goddard/2018/icesat-2-reveals-profile-of-ice-sheets-sea-ice-forests
 
-## Natural Earth climate variability
+## Natural Earth's climate variability on various scale
+
+### Million years scale
+
+Reconstruction the temperature from last million years shows periodic changes in Earth's climate. The 100,000 years cycle is visible. Long and colder periods when ice sheets are expanding are followed by shorter, warmer interglacial periods.
+
+ * https://en.wikipedia.org/wiki/Geologic_temperature_record
  * Milankovich cycles: https://en.wikipedia.org/wiki/Milankovitch_cycles
- * Greenland vs Antarctic ice core variability: https://en.wikipedia.org/wiki/File:Ice-core-isotope.png
- * [Article] Greenland ice core analysis: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
+ * https://en.wikipedia.org/wiki/100,000-year_problem
+ * https://en.wikipedia.org/wiki/Proxy_(climate)
+
+### 100,000 years
+
+In the scale of last 100k years we see transition from last interglacial period, called Eemian, to roughly 100,000 year long cold conditions and back to warm period which is underway until now - the Holocene. 
+
  * Glacial period: https://en.wikipedia.org/wiki/Last_Glacial_Period
  * Previous interglacial period: https://en.wikipedia.org/wiki/Eemian
+ * Current interglacial period: https://en.wikipedia.org/wiki/Holocene
+ * Laurentide Ice Sheet: https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet
+ * https://en.wikipedia.org/wiki/Last_Glacial_Maximum
+
+We use various proxies for the climate reconstruction. They includes ice cores drilled from Antarctic and Greenland, but also fossil data, ocean sediments and others.
+
+ * [Article] Greenland ice core analysis: https://www.carbonbrief.org/factcheck-what-greenland-ice-cores-say-about-past-and-present-climate-change
  * [Article] Reconstruction of Eemian climate from northern Finland https://www.nature.com/articles/s41467-018-05314-1
- * Abrupt climate change: https://en.wikipedia.org/wiki/Abrupt_climate_change
- * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
- * ACC figure: https://en.wikipedia.org/wiki/File:Approximate_chronology_of_Heinrich_events_vs_Dansgaard-Oeschger_events_and_Antarctic_Isotope_Maxima.png
+
+Data from Greenland ice cores show rapid temperature changes during last glacial period, in opposition to much more stable Antarctic record: 
+ * Greenland vs Antarctic ice core variability: https://en.wikipedia.org/wiki/File:Ice-core-isotope.png 
  * Dansgaard–Oeschger event: https://en.wikipedia.org/wiki/Dansgaard%E2%80%93Oeschger_event
  * Heinrich event: https://en.wikipedia.org/wiki/Heinrich_event
- * Laurentide_Ice_Sheet: https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet
-### Holocene climate events
- * https://en.wikipedia.org/wiki/Holocene
+ 
+### 10,000 years
+
+This time scale covers the Holocene. The transition from glacial period starts around 14,500 years before present with rapid warming event called Bølling–Allerød, interrupted by Younger Dryas period. The Holocene itself starts approximately 11,650 years BP.
+
+ * https://en.wikipedia.org/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_warming
  * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
  * Sea level rise: https://en.wikipedia.org/wiki/Early_Holocene_sea_level_rise
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
- * "Little Ice Age": https://en.wikipedia.org/wiki/Little_Ice_Age
+
+### 100 years - industrial era and Global Warming
+
+ * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
+ * [Article] global warming in last 2000 years: https://www.climate-lab-book.ac.uk/2020/2019-years/
+ * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
+ * Visualisation of polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
+ * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
+ * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
+ * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
+ * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
+ * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
+ * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
+ * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
+ * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
 ## Periodic weather phenomena
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
@@ -61,21 +96,7 @@ Climate and weather related resources index
  * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
-## Global warming
- * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
- * [Article] global warming in last 2000 years: https://www.climate-lab-book.ac.uk/2020/2019-years/
- * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
- * Visualisation of polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
- * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
- * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
- * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
- * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
- * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
 
-### Industrial era sea level rise
- * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
- * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
- * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
 ## Understanding thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
@@ -84,3 +105,4 @@ Climate and weather related resources index
  * North Atlantic warming hole: https://en.wikipedia.org/wiki/Cold_blob_(North_Atlantic)
  * [Paper] AMOC slowdown: https://eprints.ucm.es/32657/1/robinson10postprint.pdf
  * [Article] AMOC shutdown impact on climate: https://www.carbonbrief.org/guest-post-could-the-atlantic-overturning-circulation-shut-down
+ * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
