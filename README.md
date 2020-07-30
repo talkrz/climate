@@ -22,7 +22,7 @@ Climate and weather related resources index
 
 ### 1,000,000 years
 
-Reconstruction the temperature from last million years shows periodic changes in Earth's climate. The 100,000 years cycle is visible. Long and colder periods when ice sheets are expanding are followed by shorter, warmer interglacial periods.
+Reconstruction of the temperature from last million years shows periodic changes in Earth's climate. The 100,000 years cycle is visible. Long and colder periods when ice sheets are expanding are followed by shorter, warmer interglacial periods.
 
  * https://en.wikipedia.org/wiki/Geologic_temperature_record
  * Milankovich cycles: https://en.wikipedia.org/wiki/Milankovitch_cycles
