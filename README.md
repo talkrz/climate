@@ -18,7 +18,7 @@ Climate and weather related resources index
  * GOES-16/17 loop of the day: http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/
  * [Article] ICESat-2 - precise laser elevation measurements sat: https://www.nasa.gov/feature/goddard/2018/icesat-2-reveals-profile-of-ice-sheets-sea-ice-forests
 
-## Natural Earth's climate variability on different scales
+## Earth's climate variability in different time scales
 
 ### 1,000,000 years
 
