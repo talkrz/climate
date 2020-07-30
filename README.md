@@ -2,18 +2,6 @@
 
 Climate and weather related resources index
 
-## Current weather maps
-
- * Temperature anomaly: http://www.karstenhaustein.com/climate.php
- * Earth interactive map with atmosphere, ocean and particulates models: https://earth.nullschool.net/
- * GFS (and other) maps with possibility to export animated GIFs: https://www.wxcharts.com/
- * Sea ice extent for Arctic & Antarctic (NSIDC): https://nsidc.org/arcticseaicenews/
- * Arctic sea ice extent, volume, temperature (DMI): http://polarportal.dk/en/sea-ice-and-icebergs/
- * Greenland icesheet melt status (NSIDC): https://nsidc.org/greenland-today/
- * Community-based realtime lightning maps: http://map.blitzortung.org
- * Realtime Europe radar maps: http://www.radareu.cz/
- * Historical weather data for Poland: https://meteomodel.pl/dane/srednie-miesieczne/
-
 ## Climate graphics
 
  * GISS surface temperature analysis: https://data.giss.nasa.gov/gistemp/
@@ -30,9 +18,9 @@ Climate and weather related resources index
  * GOES-16/17 loop of the day: http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/
  * [Article] ICESat-2 - precise laser elevation measurements sat: https://www.nasa.gov/feature/goddard/2018/icesat-2-reveals-profile-of-ice-sheets-sea-ice-forests
 
-## Natural Earth's climate variability on various scale
+## Natural Earth's climate variability on different scales
 
-### Million years scale
+### 1,000,000 years
 
 Reconstruction the temperature from last million years shows periodic changes in Earth's climate. The 100,000 years cycle is visible. Long and colder periods when ice sheets are expanding are followed by shorter, warmer interglacial periods.
 
@@ -72,6 +60,10 @@ This time scale covers the Holocene. The transition from glacial period starts a
 
 ### 100 years - industrial era and Global Warming
 
+Over the past decades we see rapid change in climate conditions. The average temperature rose over one degree C on average, with much more growth in the northern latitudes, especially in the Arctic.
+This chart shows how rapid the growth is when juxtaposed with natural Holocene variability:
+ * https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Common_Era_Temperature.svg/2880px-Common_Era_Temperature.svg.png
+
  * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
  * [Article] global warming in last 2000 years: https://www.climate-lab-book.ac.uk/2020/2019-years/
  * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
@@ -84,6 +76,7 @@ This time scale covers the Holocene. The transition from glacial period starts a
  * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
+ * CO2/Methane levels data from Mauna Loa Observatory: https://www.esrl.noaa.gov/gmd/ccgg/trends/
 
 ## Periodic weather phenomena
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
@@ -96,8 +89,6 @@ This time scale covers the Holocene. The transition from glacial period starts a
  * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
-
-
 ## Understanding thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
  * Atlantic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
@@ -106,3 +97,15 @@ This time scale covers the Holocene. The transition from glacial period starts a
  * [Paper] AMOC slowdown: https://eprints.ucm.es/32657/1/robinson10postprint.pdf
  * [Article] AMOC shutdown impact on climate: https://www.carbonbrief.org/guest-post-could-the-atlantic-overturning-circulation-shut-down
  * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
+
+
+## Current weather maps
+ * Temperature anomaly: http://www.karstenhaustein.com/climate.php
+ * Earth interactive map with atmosphere, ocean and particulates models: https://earth.nullschool.net/
+ * GFS (and other) maps with possibility to export animated GIFs: https://www.wxcharts.com/
+ * Sea ice extent for Arctic & Antarctic (NSIDC): https://nsidc.org/arcticseaicenews/
+ * Arctic sea ice extent, volume, temperature (DMI): http://polarportal.dk/en/sea-ice-and-icebergs/
+ * Greenland icesheet melt status (NSIDC): https://nsidc.org/greenland-today/
+ * Community-based realtime lightning maps: http://map.blitzortung.org
+ * Realtime Europe radar maps: http://www.radareu.cz/
+ * Historical weather data for Poland: https://meteomodel.pl/dane/srednie-miesieczne/
