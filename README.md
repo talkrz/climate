@@ -53,9 +53,10 @@ Data from Greenland ice cores show rapid temperature changes during last glacial
 
 This time scale covers the Holocene. The transition from glacial period starts around 14,500 years before present with rapid warming event called Bølling–Allerød, interrupted by Younger Dryas period. The Holocene itself starts approximately 11,650 years BP.
 
- * https://en.wikipedia.org/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_warming
- * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
+ * Bølling–Allerød warming: https://en.wikipedia.org/wiki/B%C3%B8lling%E2%80%93Aller%C3%B8d_warming
+ * Meltwater pulse 1A: https://en.wikipedia.org/wiki/Meltwater_pulse_1A
  * Sea level rise: https://en.wikipedia.org/wiki/Early_Holocene_sea_level_rise
+ * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
 
 ### 100 years - industrial era and Global Warming
