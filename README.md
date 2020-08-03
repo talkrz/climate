@@ -61,25 +61,35 @@ This time scale covers the Holocene. The transition from glacial period starts a
 ### 100 years - industrial era and Global Warming
 
 Over the past decades we see rapid change in climate conditions. The average temperature rose over one degree C on average, with much more growth in the northern latitudes, especially in the Arctic.
-This chart shows how rapid the growth is when juxtaposed with natural Holocene variability:
- * https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Common_Era_Temperature.svg/2880px-Common_Era_Temperature.svg.png
 
  * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
+ * CO2/Methane levels data from Mauna Loa Observatory: https://www.esrl.noaa.gov/gmd/ccgg/trends/
+
+#### Temperature increase
+
+This charts shows how rapid the growth is when juxtaposed with natural Holocene variability:
+ * Last 2000 years: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Common_Era_Temperature.svg/2880px-Common_Era_Temperature.svg.png
+ * Broader context: https://twitter.com/rahmstorf/status/1220699044181368838
+
+Other resources:
  * [Article] global warming in last 2000 years: https://www.climate-lab-book.ac.uk/2020/2019-years/
- * Visualisation of the pace of natural variations vs globar warming: https://twitter.com/rahmstorf/status/1220699044181368838
- * Visualisation of polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
+ * Visualisation of the polar amplification effect: https://twitter.com/ZLabe/status/1219659508554686464
+ * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
+ * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
+
+#### Loss of sea and land ice
  * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
  * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
  * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
- * Summer temperature distribution shift: http://www.columbia.edu/~mhs119/Temperature/Emails/July2018.pdf
- * Chart debunking volcano/sunspot impact on temperature: http://www.columbia.edu/~mhs119/Temperature/T_moreFigs/Tvs.year+month.png
+ 
+#### Sea level rise
  * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
- * CO2/Methane levels data from Mauna Loa Observatory: https://www.esrl.noaa.gov/gmd/ccgg/trends/
 
 ## Periodic weather phenomena
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
+ * Arctic Oscillation: https://en.wikipedia.org/wiki/Arctic_oscillation
  * [Data] Arctic oscillation index: https://www.daculaweather.com/4_ao_index.php
  * NAO: https://en.wikipedia.org/wiki/North_Atlantic_oscillation
  * NAO data since 1950: https://www.climate.gov/news-features/understanding-climate/climate-variability-north-atlantic-oscillation
