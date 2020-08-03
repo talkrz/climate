@@ -84,7 +84,8 @@ Other resources:
  * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
  
 #### Sea level rise
- * Global Mean Sea Level sat observations (1993-present): https://sealevel.nasa.gov/understanding-sea-level/key-indicators/global-mean-sea-level
+ * [Article] Sea level rise: https://www.aviso.altimetry.fr/data/products/ocean-indicators-products/mean-sea-level.html
+ * [Data] Sea level rise: https://www.aviso.altimetry.fr/data/products/ocean-indicators-products/mean-sea-level/products-and-images-selection-without-saral-old.html
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
