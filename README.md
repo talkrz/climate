@@ -82,6 +82,7 @@ Other resources:
  * [Article] with animation of loss of the old ice in the Arctic: https://svs.gsfc.nasa.gov/4750
  * [Article] about impact on northern Canada people: http://projects.thestar.com/climate-change-canada/nunavut/
  * [Article] Exceptional melt of Greenland ice in 2019: https://www.ft.com/content/591395fe-b761-11e9-96bd-8e884d3ea203
+ * Arctic sea ice volume vs. extent 1979 - July 2020: https://twitter.com/kevpluck/status/1292460480347418625 
  
 #### Sea level rise
  * [Article] Sea level rise: https://www.aviso.altimetry.fr/data/products/ocean-indicators-products/mean-sea-level.html
