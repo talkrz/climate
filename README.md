@@ -58,6 +58,7 @@ This time scale covers the Holocene. The transition from glacial period starts a
  * Sea level rise: https://en.wikipedia.org/wiki/Early_Holocene_sea_level_rise
  * Younger Dryas: https://en.wikipedia.org/wiki/Younger_Dryas
  * 8.2ky event: https://en.wikipedia.org/wiki/8.2_kiloyear_event
+ * [Paper] Holocene global mean surface temperature, a multi-method reconstruction approach: https://www.nature.com/articles/s41597-020-0530-7
  * [Paper] A Reconstruction of Regional and Global Temperature for the Past 11,300 Years: https://www.researchgate.net/publication/235885717_A_Reconstruction_of_Regional_and_Global_Temperature_for_the_Past_11300_Years
 
 ### 100 years - industrial era and Global Warming
