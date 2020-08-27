@@ -69,9 +69,9 @@ Over the past decades we see rapid change in climate conditions. The average tem
  * Met Office dashboard: https://www.metoffice.gov.uk/hadobs/monitoring/dashboard.html
  * CO2/Methane levels data from Mauna Loa Observatory: https://www.esrl.noaa.gov/gmd/ccgg/trends/
 
-#### Temperature increase
+#### Temperature increase in context
 
-This charts shows how rapid the growth is when juxtaposed with natural Holocene variability:
+These charts show how rapid the growth is when juxtaposed with natural Holocene variability:
  * Last 2000 years: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Common_Era_Temperature.svg/2880px-Common_Era_Temperature.svg.png
  * Broader context: https://twitter.com/rahmstorf/status/1220699044181368838
  * High-res chart (but see description in the thread how it was contructed): https://twitter.com/alxrdk/status/1295016785180270594
