@@ -116,7 +116,7 @@ Other resources:
  * [Paper] AMOC slowdown: https://eprints.ucm.es/32657/1/robinson10postprint.pdf
  * [Article] AMOC shutdown impact on climate: https://www.carbonbrief.org/guest-post-could-the-atlantic-overturning-circulation-shut-down
  * Thermohaline circulation shutdown: https://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation
-
+ * [Article] New studies confirm weakening of the Gulf Stream circulation (AMOC): http://www.realclimate.org/index.php/archives/2020/09/new-studies-confirm-weakening-of-the-gulf-stream-circulation-amoc/
 
 ## Current weather maps
  * Temperature anomaly: http://www.karstenhaustein.com/climate.php
