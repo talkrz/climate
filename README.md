@@ -103,6 +103,7 @@ Other resources:
  * NAO: https://en.wikipedia.org/wiki/North_Atlantic_oscillation
  * NAO data since 1950: https://www.climate.gov/news-features/understanding-climate/climate-variability-north-atlantic-oscillation
  * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
+ * [Paper] High‐latitude influence of the quasi‐biennial oscillation: https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.2132
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
  * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
  * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
