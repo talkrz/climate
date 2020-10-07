@@ -97,6 +97,7 @@ Other resources:
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
 ## Periodic weather phenomena
+ * Climate variability: https://en.wikipedia.org/wiki/Climate_variability_and_change
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
  * Arctic Oscillation: https://en.wikipedia.org/wiki/Arctic_oscillation
  * [Data] Arctic oscillation index: https://www.daculaweather.com/4_ao_index.php
