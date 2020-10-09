@@ -40,6 +40,7 @@ In the scale of last 100k years we see transition from last interglacial period,
  * Current interglacial period: https://en.wikipedia.org/wiki/Holocene
  * Laurentide Ice Sheet: https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet
  * https://en.wikipedia.org/wiki/Last_Glacial_Maximum
+ * [Paper] Phasing of millennial-scale climate variability in the Pacific and Atlantic Oceans: https://science.sciencemag.org/content/early/2020/09/30/science.aba7096
 
 We use various proxies for the climate reconstruction. They includes ice cores drilled from Antarctic and Greenland, but also fossil data, ocean sediments and others.
 
