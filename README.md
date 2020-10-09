@@ -40,7 +40,6 @@ In the scale of last 100k years we see transition from last interglacial period,
  * Current interglacial period: https://en.wikipedia.org/wiki/Holocene
  * Laurentide Ice Sheet: https://en.wikipedia.org/wiki/Laurentide_Ice_Sheet
  * https://en.wikipedia.org/wiki/Last_Glacial_Maximum
- * [Paper] Phasing of millennial-scale climate variability in the Pacific and Atlantic Oceans: https://science.sciencemag.org/content/early/2020/09/30/science.aba7096
 
 We use various proxies for the climate reconstruction. They includes ice cores drilled from Antarctic and Greenland, but also fossil data, ocean sediments and others.
 
@@ -51,6 +50,7 @@ Data from Greenland ice cores show rapid temperature changes during last glacial
  * Greenland vs Antarctic ice core variability: https://en.wikipedia.org/wiki/File:Ice-core-isotope.png 
  * Dansgaard–Oeschger event: https://en.wikipedia.org/wiki/Dansgaard%E2%80%93Oeschger_event
  * Heinrich event: https://en.wikipedia.org/wiki/Heinrich_event
+ * [Paper] Phasing of millennial-scale climate variability in the Pacific and Atlantic Oceans: https://science.sciencemag.org/content/early/2020/09/30/science.aba7096
  
 ### 10,000 years
 
