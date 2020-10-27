@@ -97,6 +97,9 @@ Other resources:
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
+### Feedback loops
+ * [Article] 'Sleeping giant' Arctic methane deposits starting to release, scientists find: https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find
+
 ## Periodic weather phenomena
  * Climate variability: https://en.wikipedia.org/wiki/Climate_variability_and_change
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
