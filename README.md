@@ -103,6 +103,7 @@ Other resources:
 ## Climate change and extreme weather events
 
  * [Paper] Human influence has intensified extreme precipitation in North America https://www.pnas.org/content/117/24/13308
+ * [Paper] Observed heavy precipitation increase confirms theory and early models https://www.nature.com/articles/nclimate3110
 
 ## Periodic weather phenomena
  * Climate variability: https://en.wikipedia.org/wiki/Climate_variability_and_change
