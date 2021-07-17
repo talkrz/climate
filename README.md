@@ -100,6 +100,10 @@ Other resources:
 ### Feedback loops
  * [Article] 'Sleeping giant' Arctic methane deposits starting to release, scientists find: https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find
 
+## Climate change and extreme weather events
+
+ * [Paper] Human influence has intensified extreme precipitation in North America https://www.pnas.org/content/117/24/13308
+
 ## Periodic weather phenomena
  * Climate variability: https://en.wikipedia.org/wiki/Climate_variability_and_change
  * El Nino: https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
