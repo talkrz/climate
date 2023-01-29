@@ -18,7 +18,7 @@ Climate and weather related resources index
  * GOES-16/17 global view: https://rammb-slider.cira.colostate.edu
  * GOES-16/17 mesoscale domain sectors: http://rammb.cira.colostate.edu/ramsdis/online/goes-16.asp#Mesoscale_Domain_Sectors_MDS
  * GOES-16/17 loop of the day: http://rammb.cira.colostate.edu/ramsdis/online/loop_of_the_day/
- * [Article] ICESat-2 - precise laser elevation measurements sat: https://www.nasa.gov/feature/goddard/2018/icesat-2-reveals-profile-of-ice-sheets-sea-ice-forests
+ * [Article] ICESat-2 - precise laser elevation measurements sat: https://www.nasa.gov/feature/goddard/2018/icesat-2-reveals-profile-of-ice-sheets-sea-ice-forests 
 
 ## Earth's climate variability in different time scales
 
@@ -97,11 +97,18 @@ Other resources:
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
+## Stratospheric circuation
+ * Real-time stratosphere maps: https://stratobserve.com/
+ * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
+ * [Article] on 2023 polar circulation with a lot of explanations: https://www.severe-weather.eu/global-weather/strong-stratospheric-warming-event-polar-vortex-january-forecast-united-states-europe-fa/
+ * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
+ * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
+ * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
+
 ### Feedback loops
  * [Article] 'Sleeping giant' Arctic methane deposits starting to release, scientists find: https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find
 
 ## Climate change and extreme weather events
-
  * [Paper] Human influence has intensified extreme precipitation in North America https://www.pnas.org/content/117/24/13308
  * [Paper] Observed heavy precipitation increase confirms theory and early models https://www.nature.com/articles/nclimate3110
 
@@ -114,12 +121,8 @@ Other resources:
  * NAO data since 1950: https://www.climate.gov/news-features/understanding-climate/climate-variability-north-atlantic-oscillation
  * QBO: https://en.wikipedia.org/wiki/Quasi-biennial_oscillation
  * [Paper] High‐latitude influence of the quasi‐biennial oscillation: https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.2132
- * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
- * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
- * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
- * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
 
-## Understanding thermohaline circulation
+## Thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
  * Atlantic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
  * [Article] North Atlantic warming hole: https://www.carbonbrief.org/scientists-shed-light-on-human-causes-of-north-atlantics-cold-blob
