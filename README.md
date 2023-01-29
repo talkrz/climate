@@ -97,6 +97,13 @@ Other resources:
  * Tide gauge chart (1870-2010): https://climate.nasa.gov/vital-signs/sea-level/
  * Tide gauge chart (different version): https://en.wikipedia.org/wiki/File:Recent_Sea_Level_Rise.png
 
+### Feedback loops
+ * [Article] 'Sleeping giant' Arctic methane deposits starting to release, scientists find: https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find
+
+## Climate change and extreme weather events
+ * [Paper] Human influence has intensified extreme precipitation in North America https://www.pnas.org/content/117/24/13308
+ * [Paper] Observed heavy precipitation increase confirms theory and early models https://www.nature.com/articles/nclimate3110
+
 ## Stratospheric circuation
  * Real-time stratosphere maps: https://stratobserve.com/
  * 50hpa temp charts: https://acd-ext.gsfc.nasa.gov/Data_services/met/ann_data.html
@@ -104,13 +111,6 @@ Other resources:
  * Sudden statospheric warming: https://en.wikipedia.org/wiki/Sudden_stratospheric_warming
  * [Article] SSW: https://blog.metoffice.gov.uk/2019/09/12/hot-news-from-the-cold-continent/
  * [Article] SSW: https://eos.org/features/how-sudden-stratospheric-warming-affects-the-whole-atmosphere
-
-### Feedback loops
- * [Article] 'Sleeping giant' Arctic methane deposits starting to release, scientists find: https://www.theguardian.com/science/2020/oct/27/sleeping-giant-arctic-methane-deposits-starting-to-release-scientists-find
-
-## Climate change and extreme weather events
- * [Paper] Human influence has intensified extreme precipitation in North America https://www.pnas.org/content/117/24/13308
- * [Paper] Observed heavy precipitation increase confirms theory and early models https://www.nature.com/articles/nclimate3110
 
 ## Periodic weather phenomena
  * Climate variability: https://en.wikipedia.org/wiki/Climate_variability_and_change
