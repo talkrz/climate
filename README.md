@@ -125,6 +125,7 @@ Other resources:
 ## Thermohaline circulation
  * Thermohaline Circulation https://en.wikipedia.org/wiki/Thermohaline_circulation
  * Atlantic MOC monitoring: http://www.rapid.ac.uk/rapidmoc/overview.php
+ * [Article] https://www.realclimate.org/index.php/archives/2023/07/what-is-happening-in-the-atlantic-ocean-to-the-amoc/
  * [Article] North Atlantic warming hole: https://www.carbonbrief.org/scientists-shed-light-on-human-causes-of-north-atlantics-cold-blob
  * North Atlantic warming hole: https://en.wikipedia.org/wiki/Cold_blob_(North_Atlantic)
  * [Paper] AMOC slowdown: https://eprints.ucm.es/32657/1/robinson10postprint.pdf
